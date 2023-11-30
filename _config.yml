@@ -14,4 +14,5 @@ url: https://jasonqiu212.github.io/cs3217-personal-statement/
 author:
   name: "Jason Qiu"
 
-github: https://github.com/jasonqiu212
+github:
+  repo: https://github.com/jasonqiu212/cs3217-personal-statement
