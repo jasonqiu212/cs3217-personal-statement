@@ -8,7 +8,8 @@ permalink: pretty
 title: CS3217
 tagline: "Personal Statement"
 description: "Personal Statement"
-baseurl: /
+baseurl: ""
+url: https://jasonqiu212.github.io/cs3217-personal-statement/
 
 author:
   name: "Jason Qiu"
