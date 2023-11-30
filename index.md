@@ -1,6 +1,9 @@
 ---
 layout: page
+title: CS3217 Personal Statement
 ---
+
+Jason Qiu, A0235206N
 
 ## About Me!
 
