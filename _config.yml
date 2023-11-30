@@ -1,0 +1,22 @@
+# Dependencies
+markdown: kramdown
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: CS3217
+tagline: "Personal Statement"
+description: "Personal Statement"
+url: http://hyde.getpoole.com
+baseurl: /
+
+author:
+  name: "Mark Otto"
+  url: https://twitter.com/mdo
+
+# Custom vars
+version: 2.1.0
+
+github:
+  repo: https://github.com/poole/hyde
