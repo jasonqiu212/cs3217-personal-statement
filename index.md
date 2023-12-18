@@ -81,4 +81,4 @@ Creating BookTank showed me that I was able to realize my creative solutions to 
 It felt liberating to know that I had the power to give back to the community around me.
 Building off this journey, I strive to create more solutions like BookTank to help the world we live in.
 
-![BookTank](/img/booktank.png)
+![BookTank]({{ site.baseurl }}/img/booktank.png)
